@@ -1,0 +1,21 @@
+.calculadora{
+    height: 500px;
+    margin: 10px;
+    background-color: #f0f0f5 !important;
+    border: gray solid 1px;
+}
+
+.visor{
+    border: gray solid 1px;
+    border-radius: 0.25rem;
+    height: 100px;
+    margin: 10px 0;
+    background-color: white;
+}
+
+.btn{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: gray solid 1px;
+}
