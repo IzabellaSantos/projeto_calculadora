@@ -11,6 +11,8 @@
     height: 100px;
     margin: 10px 0;
     background-color: white;
+    font-size: 30px;
+    text-align: right;
 }
 
 .btn{
